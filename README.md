@@ -1,5 +1,5 @@
 # app-dev
-**My first respository**
+**My first repository**
 
 **My Favorite Series!**
 # True Beauty
